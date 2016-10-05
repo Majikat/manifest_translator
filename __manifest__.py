@@ -13,6 +13,7 @@ This module translates my custom modules manifests.
 
     'author': "Majikat",
     'website': "http://majikat.com",
+    'license': 'GPL-3.0',
 
     'category': 'Uncategorized',
     'version': '1.0.0',
